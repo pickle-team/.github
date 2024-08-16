@@ -1,1 +1,1 @@
-<img src="./images/Pickle_Thumb.png" width="100%">
+<img src="./images/pickle_post.png" width="100%">
